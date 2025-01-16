@@ -1,6 +1,6 @@
-# Naukri Web Scraping
+# Data-Science-Project
 
-🚀 Welcome to the Naukri Web Scraping Project! This project involves scraping job listings from Naukri.com, extracting valuable information, cleaning and processing the data, and creating insightful visualizations using Tableau. Below, you'll find an overview of the project, its prerequisites, execution steps, and a brief description of the analysis and dashboard creation.
+🚀 Welcome to the Data Science Project! This project involves scraping job listings from Naukri.com, extracting valuable information, cleaning and processing the data, and creating insightful visualizations using Tableau. Below, you'll find an overview of the project, its prerequisites, execution steps, and a brief description of the analysis and dashboard creation.
 
 ## 📝 Project Overview
 
@@ -49,4 +49,4 @@ For more detailed information and to interact with the final dashboard, check ou
 Happy coding! 🌟👩‍💻👨‍💻
 
 > Note: Ensure that you respect Naukri.com's terms of use and follow ethical web scraping practices while collecting data.
-# Data-Science-Project
+
